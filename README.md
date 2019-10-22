@@ -5,5 +5,6 @@
 - used fake ```jsonnplaceholder.typicode.com``` API endpoints
 -------------------------------------------------------------
 ![main pic](./src/assets/posts.png)
---------------------Next Page--------------------------------
+------------------------------------------------------------- 
+> Next Page
 ![comment pic](./src/assets/comments.png)
