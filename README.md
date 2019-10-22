@@ -1,4 +1,5 @@
 ### users posts comments app 
 
-> with react router 
-> used fake jsonplaceholder API endpoints
+> tools
+- react router dom 
+- used fake ```jsonnplaceholder.typicode.com``` API endpoints
